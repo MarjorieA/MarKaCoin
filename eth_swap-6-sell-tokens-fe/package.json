@@ -1,6 +1,7 @@
 {
-  "name": "eth-swap",
-  "version": "0.1.0",
+  "name": "markacoin",
+  "version": "1.0.0",
+  "private": true,
   "description": "An Instant ERC-20 Cryptocurrency Exchange",
   "author": "mar",
   "dependencies": {
